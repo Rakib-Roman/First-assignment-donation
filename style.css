@@ -138,6 +138,10 @@ input {
     display: flex;
 }
 
+.Sylhet2 {
+    display: flex;
+}
+
 .flexing {
     display: flex;
 
@@ -147,10 +151,11 @@ input {
     width: 50%;
     text-align: center;
     margin-left: 10%;
+    padding-right: 50px;
 }
 
 .content2 {
-    padding-top: 600px;
+    padding-top: 350px;
     padding-left: 100px;
     margin-left: 100px;
 
@@ -162,9 +167,14 @@ input {
     padding-right: 250px;
 }
 
+.image2 {
+    padding-top: 300px;
+    padding-left: 10%;
+}
+
 #email {
     text-align: center;
-    padding-top: 300px;
+    padding-top: 100px;
 }
 
 #email1 {
